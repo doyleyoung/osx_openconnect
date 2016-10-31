@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo openconnect -b --config /path/to/config/vpn.conf *your.server.name*
