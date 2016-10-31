@@ -15,3 +15,6 @@ authgroup=AnyConnectAuthGroup
 ```
 
 Modify start_vpn and add your VPN server name where it says \*your.server.name\*.
+
+
+Once the above steps have been taken it should be as easy as start_vpn and stop_vpn to interact with your not-so-friendly neighborhood AnyConnect.
